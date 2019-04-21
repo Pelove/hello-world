@@ -1,2 +1,2 @@
 # hello-world
-I Love Coffee:
+I Love Coffee.
